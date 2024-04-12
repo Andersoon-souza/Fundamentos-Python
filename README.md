@@ -1,2 +1,2 @@
-<img src="/assets/img/lego.png">
+<img src="/assets/lego.png">
 ## Fundamentos-Python
